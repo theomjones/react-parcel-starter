@@ -4,6 +4,7 @@
 
 * Babel class property transforms
 * Babel object spread transforms
+* React router
 * PostCSS modules
 
 ### Usage
