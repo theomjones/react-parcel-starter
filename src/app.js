@@ -1,11 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import styles from "./app.css";
-console.log(styles);
+import classNames from "./app.css";
 
 const App = props => (
-  <div className={styles.App}>
+  <div className={classNames.App}>
     <h1>{props.title}</h1>
   </div>
 );
